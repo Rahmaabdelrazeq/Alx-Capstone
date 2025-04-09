@@ -1,4 +1,4 @@
-/ File: README.md
+
 # Pomodoro Timer App
 
 
@@ -48,3 +48,5 @@ Tailwind's utility classes are used to make the layout responsive across differe
 
 ## 📜 License
 This project is open-source and free to use.
+
+

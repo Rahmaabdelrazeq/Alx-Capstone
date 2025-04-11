@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
-const WORK_TIME = 25 * 60; // 25 minutes
-const BREAK_TIME = 5 * 60; // 5 minutes
+const WORK_TIME = 25 * 60; 
+const BREAK_TIME = 5 * 60; 
 
 const formatTime = (seconds) => {
   const m = Math.floor(seconds / 60).toString().padStart(2, '0');
